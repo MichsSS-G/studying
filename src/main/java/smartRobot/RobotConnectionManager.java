@@ -1,2 +1,6 @@
-package smartRobot;public interface RobotConnectionManager {
+package smartRobot;
+
+public interface RobotConnectionManager {
+
+    RobotConnection getConnection();
 }
