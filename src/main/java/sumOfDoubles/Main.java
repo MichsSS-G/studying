@@ -1,4 +1,4 @@
-package SumOfDoubles;
+package sumOfDoubles;
 
 import java.util.*;
 
